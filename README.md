@@ -10,7 +10,7 @@ it loads. it works. that's all.
 ## why
 
 because "some" generators take 10 seconds to load.  
-this one is **much** faster
+this one is **much** faster  
 it's one html file.  
 there is no build system. no analytics. no js frameworks.  
 no cookie banners. no fingerprinting. no requests.
